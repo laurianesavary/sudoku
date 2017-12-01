@@ -1,0 +1,42 @@
+.padding-0 {
+	padding-right:0;
+	padding-left: 0;
+}
+
+.pageWidth {
+	max-width: 350;
+}
+
+.set-sudokuField {
+	width:30px;
+	text-align: center;
+	margin: 3px;
+}
+
+.externalBorderTop {
+	border-top:3px solid black;
+}
+
+.externalBorderRight {
+	border-right:3px solid black;
+}
+
+.externalBorderLeft {
+	border-left:3px solid black;
+}
+
+.externalBorderBottom {
+	border-bottom:3px solid black;
+}
+
+.internalBorderBottom {
+	border-bottom:1px solid black;
+}
+
+.internalBorderRight {
+	border-right: 1px solid black;
+}
+
+input {
+	border:0px solid;
+}
