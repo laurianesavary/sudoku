@@ -27,7 +27,7 @@
     "express": "4.16.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "webpack": "3.8.1",
+    "webpack": "5.90.3",
     "webpack-css-loaders": "1.0.0",
     "webpack-dev-middleware": "1.12.2"
   },
