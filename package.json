@@ -20,7 +20,7 @@
   "homepage": "https://github.com/laurianesavary/sudoku#readme",
   "dependencies": {
     "babel-core": "6.26.0",
-    "babel-loader": "7.1.2",
+    "babel-loader": "9.1.3",
     "babel-preset-latest": "6.24.1",
     "babel-preset-react": "6.24.1",
     "bootstrap": "4.0.0-beta.2",
